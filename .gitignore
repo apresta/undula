@@ -1,0 +1,12 @@
+CMakeCache.txt
+Makefile
+*.cmake
+compile_commands.json
+CMakeFiles
+build/
+images/
+recordings/
+.cache
+*.jpg
+*.png
+*.mp4
